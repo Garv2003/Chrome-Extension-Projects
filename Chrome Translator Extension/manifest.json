@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "AsmrProg Translator",
+  "name": "Translator",
   "version": "1.0",
-  "description": "A simple translator extension coded by : AsmrProg",
+  "description": "A simple translator extension",
   "action": {
     "default_popup": "index.html"
   },

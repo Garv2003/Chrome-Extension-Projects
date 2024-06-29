@@ -32,6 +32,8 @@
 body {
   background: #070707;
   color: #fff;
+  width: 400px;
+  height: 400px;
 }
 
 .battery {

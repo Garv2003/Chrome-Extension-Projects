@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Image Color Picker",
+  "version": "1.0",
+  "description": "A simple extension to pick color from an image",
+  "action": {
+    "default_popup": "index.html"
+  }
+}
